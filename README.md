@@ -11,7 +11,7 @@
   <li><a href=https://www.npmjs.com/>Npm</a></li>
 </ul>
 
-<h2>Sobre 📃</h2>
+<h2>Descrição📃</h2>
 <p> Esse projeto é uma api de cadastro de usarios, possui um crud completo,
 recebendo o nome do usuario e idade. Serve de Base para a sua interface <a href=https://github.com/Wanndeko/cadastro-user-front>cadastro-user</a>.</p>
 
