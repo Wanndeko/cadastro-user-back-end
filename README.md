@@ -3,7 +3,7 @@
 ![Wanndeko-repo-status](https://img.shields.io/badge/Status-Finished-lightgrey?style=for-the-badge&logo=headspace&logoColor=green&color=lightgrey)
 ![Wanndeko-repo-license](https://img.shields.io/github/license/Luk4x/iManager-json-server?style=for-the-badge&logo=unlicense&logoColor=lightgrey)
 
-<h2>Tecnologias utilizadas 🖥️</h2>
+<h2>Tecnologias🖥️</h2>
 <ul>
   <li><a href=https://nodejs.org>Node.Js</a></li>
   <li><a href=https://www.npmjs.com/package/express>Express</a></li>
@@ -15,7 +15,7 @@
 <p> Esse projeto é uma api de cadastro de usarios, possui um crud completo,
 recebendo o nome do usuario e idade. Serve de Base para a sua interface <a href=https://github.com/Wanndeko/cadastro-user-front>cadastro-user</a>.</p>
 
-<h2>Rotas 📄</h2>
+<h2>Utiilização🛠️</h2>
 <p>get => /users -- traz todos os usarios cadastrados nos array de users</p><br>
 
 <p>post => /users -- recebe os dados name, age do body e adiciona um id unico para depois executar o push para a array de users</p><br>
